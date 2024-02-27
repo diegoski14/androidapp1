@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <string name="resultado">Not beer founded</string>
+    <string-array name="beer_colors">
+        <item>Red</item>
+        <item>Dark</item>
+        <item>Anber</item>
+    </string-array>
+</resources>
