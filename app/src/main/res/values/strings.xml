@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Beer Adviser</string>
-    <string name="resultado">Not beer founded</string>
+    <string name="app_name">TuProducto</string>
+    <string name="resultado">Encuentra tu producto</string>
     <string-array name="beer_colors">
-        <item>Red</item>
-        <item>Dark</item>
-        <item>Anber</item>
+        <item>Agricola</item>
+        <item>Liquido</item>
+        <item>Materiales solidos</item>
     </string-array>
 </resources>
